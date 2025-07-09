@@ -32,6 +32,7 @@ Comandos
 roscore
 ```
 
+### Executar o RosSerial
 
 ```bash
 rosrun rosserial_python serial_node.py _port:=tcp
