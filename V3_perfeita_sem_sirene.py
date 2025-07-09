@@ -84,6 +84,7 @@ class DetectorCor:
 
                 candidatos.append((contorno, area))
 
+        # Pega o contorno de maior área
         return max(candidatos, key=lambda x: x[1])[0] if candidatos else None
 
     def _calcular_centro(self, contorno):
