@@ -23,10 +23,10 @@ Instalar o telop:
 sudo apt install ros-noetic-teleop-twist-keyboard
 ```
 
-## Comandos
+Comandos
 ---
 
-## Executar o ROSCore
+### Executar o ROSCore
 
 ```bash
 roscore
