@@ -5,7 +5,7 @@ O robô se conecta ao computador via cabo ethernet, que envia comandos a todas a
 pelo protocolo ROS Serial. No entanto, o robo procura o servidor do ROS Serial em um IP específico, então é 
 necessário configurar o IP do computador para que ele possa ser encontrado pelo robô.
 
-IP Fixo, sem DHCP:
+- IP Fixo, sem DHCP
 - Ipv4: 10.10.10.1
 - Sub-rede: 255.255.255.0
 - Gateway: 10.10.10.199
