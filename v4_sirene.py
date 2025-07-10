@@ -1,3 +1,6 @@
+# navegacao ruim, checar se sirene funciona. Adicionar so parte da sirene na V3 e testar
+
+
 import rospy
 from geometry_msgs.msg import Twist
 from sensor_msgs.msg import Image
