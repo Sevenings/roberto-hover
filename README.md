@@ -49,3 +49,8 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```bash
 rostopic echo /battery_voltage
 ```
+
+### Launch camera
+```bash
+roslaunch realsense2_camera rs_camera.launch
+```
